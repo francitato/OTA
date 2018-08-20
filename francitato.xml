@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://mega.nz/#!mjh3iTLY!Dm-lldZHuk7VagA8lTitKg6QjleRDOoBemdKdXVln34</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/arianoxx/files/Resurrection-remix/edge/RR-O-v6.1.0-20180820-herolte-Unofficial.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -22,7 +22,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://mega.nz/#!Hv5xmbAQ!GJfgH6iH4q5YHmdg7qW9DfGyGPhyet8iYT_FsvJVgGI</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/arianoxx/files/Resurrection-remix/flat/RR-O-v6.1.0-20180820-herolte-Unofficial.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
