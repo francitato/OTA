@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+       <hero2lte>
+          <Filename>RR-O-v6.1.0-20180820-herolte-Unofficial.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://mega.nz/#!mjh3iTLY!Dm-lldZHuk7VagA8lTitKg6QjleRDOoBemdKdXVln34</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+</hero2lte>   
+
+<herolte>
+          <Filename>RR-O-v6.1.0-20180820-herolte-Unofficial.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://mega.nz/#!Hv5xmbAQ!GJfgH6iH4q5YHmdg7qW9DfGyGPhyet8iYT_FsvJVgGI</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+</herolte> 
+
+    </Stable>
+</SlimOTA>
